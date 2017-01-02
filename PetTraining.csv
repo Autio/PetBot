@@ -1,6 +1,9 @@
 Statement,Response
-mWater,Regarding mWater you might want to talk to Emma Stewart.
-Project Center,Check out wateraid.org/projectcenter
+mWater,mWater is great! You might want to talk to Emma Stewart for more information or visit http://mwater.co
+Tell me about mWater,mWater is great! You might want to talk to Emma Stewart for more information or visit http://mwater.co
+Project Center,Check out wateraid.org/projectcenter if you want to learn more about Project Center
+Tell me about Project Center,Check out wateraid.org/projectcenter if you want to learn more about Project Center
+What do you know about Project Center?,Check out wateraid.org/projectcenter if you want to learn more about Project Center
 Hello,Hi-diddly-o!
 Happy New Year!,Happy New Year
 Goodbye,Bye for now
@@ -15,7 +18,7 @@ Sorry,No problem
 are you going to the office first this morning?,Already here
 How do I get into Project Center?,"Have you received an invite to join Project Center, and have you managed to log in? You need to speak to your superuser or email pmer@wateraid.org"
 ".what do we 'approve' in PC - budget, results framework and project separately...or variance on above?",The Project and Results Framework should be approved.
-"Hi Petri, do you have a couple of minutes to chat?",Sure
+"Hi Petri, do you have a couple of minutes to chat?",I sure do
 Where can I find Project Center manuals?,You can find Project Center manuals by clicking Help from the top right in the system
 How old are you? ,I was born in 1985 so you do the math.
 What's my password?,If you are struggling to remember passwords it might be a good idea to start using a password management tool like Keepass.
