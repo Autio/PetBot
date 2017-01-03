@@ -13,13 +13,15 @@ https://developer.atlassian.com/hipchat/guide/hipchat-rest-api/api-access-tokens
 train = False
 if not (os.path.isfile("./database.json")):
     train = True
+    errors = 0
 
+# petbot token f25343ef4555ff7c40e02dc231641e266d1d06b0
 chatbot = ChatBot(
     "PetBot",
     storage_adapter="chatterbot.storage.JsonFileStorageAdapter",
     #_host="https://archbang.hipchat.com",
-    gitter_room="autio/PetBot",
-    gitter_api_token="291b8aa0b216cbf5d6429b215f979ada5e0a4ba9",
+    gitter_room="autio/PetBot2000",
+    gitter_api_token="f25343ef4555ff7c40e02dc231641e266d1d06b0",
     gitter_only_respond_to_mentions=False,
     input_adapter="chatterbot.input.Gitter", #TerminalAdapter",
     output_adapter="chatterbot.output.Gitter",
@@ -50,7 +52,10 @@ if train:
     chatbot.set_trainer(ListTrainer)
     chatbot.train(conversation)
     for item in training_conversations:
-        chatbot.train(item)
+        try:
+            chatbot.train(item)
+        except:
+            errors += 1
     chatbot.set_trainer(ChatterBotCorpusTrainer)
     chatbot.train("chatterbot.corpus.english")
 

@@ -1,24 +1,38 @@
-Statement,Response
-mWater,mWater is great! You might want to talk to Emma Stewart for more information or visit http://mwater.co
-Tell me about mWater,mWater is great! You might want to talk to Emma Stewart for more information or visit http://mwater.co
-Project Center,Check out wateraid.org/projectcenter if you want to learn more about Project Center
-Tell me about Project Center,Check out wateraid.org/projectcenter if you want to learn more about Project Center
-What do you know about Project Center?,Check out wateraid.org/projectcenter if you want to learn more about Project Center
-Hello,Hi-diddly-o!
-Happy New Year!,Happy New Year
-Goodbye,Bye for now
-Bye,Speak to you later
-Good morning,Good morning
-"hah, I just added a 'profanity check' task in my todo list",Turn them into very subtle profanities where people won't know if you meant it.
-thanks for letting me know and i hope you have a great ToT!,Thanks a lot! Fingers crossed!
-"oh wow, I didn't realise they had done a PIMS! that sounds good :)",It must have sat there for a wee while
-but thanks for the support,No problem
-i am happy with how the team are carrying out the training,That's very good to hear
-Sorry,No problem
-are you going to the office first this morning?,Already here
-How do I get into Project Center?,"Have you received an invite to join Project Center, and have you managed to log in? You need to speak to your superuser or email pmer@wateraid.org"
-".what do we 'approve' in PC - budget, results framework and project separately...or variance on above?",The Project and Results Framework should be approved.
-"Hi Petri, do you have a couple of minutes to chat?",I sure do
-Where can I find Project Center manuals?,You can find Project Center manuals by clicking Help from the top right in the system
-How old are you? ,I was born in 1985 so you do the math.
-What's my password?,If you are struggling to remember passwords it might be a good idea to start using a password management tool like Keepass.
+Statement,Response,,
+mWater,mWater is great! You might want to talk to Emma Stewart for more information or visit http://mwater.co,,
+Tell me about mWater,mWater is great! You might want to talk to Emma Stewart for more information or visit http://mwater.co,,
+What is mWater?,mWater is great! You might want to talk to Emma Stewart for more information or visit http://mwater.co,,
+How is mWater coming along?,mWater is great! You might want to talk to Emma Stewart for more information or visit http://mwater.co,,
+Project Center,Check out wateraid.org/projectcenter if you want to learn more about Project Center,,
+Tell me about Project Center,Check out wateraid.org/projectcenter if you want to learn more about Project Center,,
+What do you know about Project Center?,Check out wateraid.org/projectcenter if you want to learn more about Project Center,,
+What's PMER?,"I know that PMER stands for Planning, Monitoring, Evaluation and Reporting. It's pretty important. You could check out the PMER site at https://wateraid.sharepoint.com/PSU/pmerproject/SitePages/Home.aspx",,
+What does PMER stand for?,"I know that PMER stands for Planning, Monitoring, Evaluation and Reporting. It's pretty important. You could check out the PMER site at https://wateraid.sharepoint.com/PSU/pmerproject/SitePages/Home.aspx",,
+Hello,Hi-diddly-o!,,
+Happy New Year!,Happy New Year,,
+Goodbye,Bye for now,,
+Bye,Speak to you later,,
+Good morning,Good morning,,
+"hah, I just added a 'profanity check' task in my todo list",Turn them into very subtle profanities where people won't know if you meant it.,,
+thanks for letting me know and i hope you have a great ToT!,Thanks a lot! Fingers crossed!,,
+"oh wow, I didn't realise they had done a PIMS! that sounds good :)",It must have sat there for a wee while,,
+but thanks for the support,No problem,,
+i am happy with how the team are carrying out the training,That's very good to hear,,
+Sorry,No problem,,
+are you going to the office first this morning?,Already here,,
+How do I get into Project Center?,"Have you received an invite to join Project Center, and have you managed to log in? You need to speak to your superuser, regional PMER officer or email pmer@wateraid.org",Who is my regional PMER officer?,"For West Africa, the PMER support officers are Hermann Kambou and Cristian Anton. For East Africa, speak to Stephen Oupal. For Southern Africa, James Manda is the right person. And for South Asia, please talk to Sabir Hussain. "
+I can't login to Project Center.,"If you can't login to Project Center, you can speak to your superuser or email PMER@wateraid.org",,
+I can't access Project Center,"If you can't login to Project Center, you can speak to your superuser or email PMER@wateraid.org",,
+"what do we 'approve' in PC - budget, results framework and project separately...or variance on above?",The Project and Results Framework should be approved.,,
+"Hi Petri, do you have a couple of minutes to chat?",I sure do,,
+Where can I find Project Center manuals?,You can find Project Center manuals by clicking Help from the top right in the system,,
+How old are you? ,I was born in 1985 so you do the math.,,
+What's my password?,If you are struggling to remember passwords it might be a good idea to start using a password management tool like Keepass.,,
+What's your favourite movie?,I quite like Tarkovsky's Mirror.,,
+What's you favourite game?,I like many games with good AI.,,
+What?,"I'm sorry, I'm still learning.",,
+Hahaha,"I'm sorry, I'm still learning.",,
+Haha,"I'm sorry, I'm still learning.",,
+That doesn't make any sense,"I'm sorry, I'm still learning.",,
+You can't be serious,"I'm sorry, I'm still learning.",,
+Bye,Goodbye now,,
